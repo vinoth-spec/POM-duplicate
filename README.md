@@ -1,0 +1,2 @@
+# POM-duplicate
+duplicate POM
